@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#000B49'
+    - '#CCD1CA'
+    - '#A31C19'
+    - '#82846D'
+    - '#23315E'
+  rhythmicContrast: 1
+typography_spectrum: 0.08431794
+name: SongOfTheDay
